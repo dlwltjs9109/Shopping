@@ -1,2 +1,1 @@
-# Shopping
- 
+# Shopping List
