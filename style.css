@@ -40,6 +40,7 @@ body {
 
 .items {
     height: 500px;
+    /* 줄이 길어지면 스크롤이 자동으로 생김 */
     overflow-y: auto;
 }
 
@@ -55,7 +56,7 @@ body {
 }
 
 .item__delete:hover {
-    color: blue;
+    color: rgb(191, 43, 43);
     transform: scale(1.1);
 }
 
