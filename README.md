@@ -2,7 +2,7 @@
 
 ## **1. Project name**
 
-- Shopping List 🥕
+- Shopping List 🎁👠
   <br /><br />
 
 ## **2. Project description**
